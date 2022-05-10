@@ -1,0 +1,58 @@
+body {
+  font-family: 'Rubik', sans-serif;
+  margin: 10px;
+}
+
+.caption {
+    font-family: Times, serif;
+    font-size: 14px;
+}
+
+
+article {
+  margin-left: 20%;
+  margin-right: 20%;
+  width: 60%;
+}
+
+h1 {
+  font-family: 'Akshar', sans-serif;
+  text-align: center;
+  font-size: 46px;
+}
+
+h2 {
+  font-family: 'Akshar', sans-serif;
+  font-size: 21px;
+}
+
+h3 {
+    font-family: 'Lora', serif;
+    font-size:  18px;
+} 
+
+
+img {
+width: 100%;
+
+}
+
+
+.story_image {
+  width: 100%;
+}
+
+
+footer {
+  margin-top: 30px;
+  font-family: Basier, Arial, sans-serif;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
